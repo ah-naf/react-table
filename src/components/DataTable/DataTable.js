@@ -33,7 +33,7 @@ const DataTable = ({ data }) => {
   if (data.id === "0") {
     return (
       <thead className="border-b-2">
-        <tr>
+        <tr className="bg-[#FDF4ED]">
           <td className="hidden md:inline-flex px-2 py-5 text-sm text-[#3E3F48] items-center justify-start text-center md:text-left">
             <input className="h-4 w-4" type="checkbox" name="" id="" />
           </td>
@@ -71,8 +71,8 @@ const DataTable = ({ data }) => {
     );
   }
   return (
-    <tbody>
-      <tr>
+    <tbody >
+      <tr className={`${data.id % 2 === 0 ? 'bg-[#effbf0]' : 'bg-white'}`}>
         <td className="hidden md:inline-flex px-2 text-center md:text-left py-5 text-sm text-[#3E3F48] items-center justify-start ">
           <input className="h-4 w-4" type="checkbox" name="" id="" />
         </td>
