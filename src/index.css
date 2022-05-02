@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f3f4f6;
+}
+
+/* @layer components {
+}
+.table tr:nth-child(odd) {
+  @apply bg-blue-100 text-blue-900;
+}
+.table tr:nth-child(even) {
+  @apply bg-blue-200 text-blue-900;
+} */

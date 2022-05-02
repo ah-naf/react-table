@@ -1,0 +1,115 @@
+[{
+        "id": "0"
+    },
+    {
+        "id": "1",
+        "dateUpdated": "11 Nov 2021",
+        "title": "Hammer",
+        "details": "This is a hammer to do work with",
+        "status": "Alright",
+        "quantity": "200/300",
+        "unitPrice": "$10",
+        "amount": "$2000.00",
+        "circle": "green"
+    },
+    {
+        "id": "2",
+        "dateUpdated": "10 Nov 2021",
+        "title": "Hammer",
+        "details": "This is a Screw to do work with",
+        "status": "Alright",
+        "quantity": "122/230",
+        "unitPrice": "$10",
+        "amount": "$1220.00",
+        "circle": "green"
+    },
+    {
+        "id": "3",
+        "dateUpdated": "6 Nov 2021",
+        "title": "Hammer",
+        "details": "Wood plan will be used to do woodworks, duh",
+        "status": "In Progress",
+        "quantity": "100/300",
+        "unitPrice": "$1.5",
+        "amount": "$150.00",
+        "circle": "orange"
+    },
+    {
+        "id": "4",
+        "dateUpdated": "28 Oct 2021",
+        "title": "Hammer",
+        "details": "-",
+        "status": "Out of Stock",
+        "quantity": "0/200",
+        "unitPrice": "$10",
+        "amount": "$0.00",
+        "circle": "red"
+    },
+    {
+        "id": "5",
+        "dateUpdated": "22 Oct 2021",
+        "title": "Hammer",
+        "details": "-",
+        "status": "Out of Stock",
+        "quantity": "0/200",
+        "unitPrice": "$10",
+        "amount": "$0.00",
+        "circle": "red"
+    },
+    {
+        "id": "6",
+        "dateUpdated": "16 Oct 2021",
+        "title": "Hammer",
+        "details": "-",
+        "status": "Out of Stock",
+        "quantity": "0/200",
+        "unitPrice": "$10",
+        "amount": "$0.00",
+        "circle": "red"
+    },
+    {
+        "id": "7",
+        "dateUpdated": "9 Oct 2021",
+        "title": "Hammer",
+        "details": "This is a hammer to do work with",
+        "status": "Alright",
+        "quantity": "200/300",
+        "unitPrice": "$10",
+        "amount": "$2000.00",
+        "circle": "green"
+    },
+    {
+        "id": "8",
+        "dateUpdated": "5 Oct 2021",
+        "title": "Hammer",
+        "details": "This is a hammer to do work with",
+        "status": "Alright",
+        "quantity": "200/300",
+        "unitPrice": "$10",
+        "amount": "$2000.00",
+        "circle": "green"
+    },
+    {
+        "id": "9",
+        "dateUpdated": "1 Oct 2021",
+        "title": "Hammer",
+        "details": "This is a hammer to do work with",
+        "status": "Alright",
+        "quantity": "200/300",
+        "unitPrice": "$10",
+        "amount": "$2000.00",
+        "circle": "green"
+    },
+    {
+        "id": "10",
+        "dateUpdated": "1 Oct 2021",
+        "title": "Hammer",
+        "details": "This is a hammer to do work with",
+        "status": "Alright",
+        "quantity": "200/300",
+        "unitPrice": "$10",
+        "circle": "green",
+
+        "amount": "$2000.00"
+    }
+]
